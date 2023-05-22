@@ -1,0 +1,747 @@
+{
+  "restaurants": [
+    {
+      "restaurantName": "Nara Kitchen",
+      "menus": [
+        {
+          "menuName": "Nasi Goreng Singapore",
+          "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/80459aae-049a-47e2-812a-eb2274de2890_Go-Biz_20220316_063809.jpeg?auto=format",
+          "menuPrice": 23.625
+        },
+        {
+          "menuName": "Nasi Goreng Jakarta",
+          "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f3fa3eee-2ebd-4fa4-8029-5c69263d56d0_Go-Biz_20220316_065114.jpeg?auto=format",
+          "menuPrice": 23.625
+        },
+        {
+            "menuName": "Nasi Goreng HongKong",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4f49b63b-bd34-438b-a310-978e71216666_Go-Biz_20220316_064236.jpeg?auto=format",
+            "menuPrice": 23.625
+          },
+          {
+            "menuName": "Nasi Goreng Ham",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/bca0a17f-66b5-4d94-83e8-8648e6117587_Go-Biz_20220316_064014.jpeg?auto=format",
+            "menuPrice": 23.625
+          },
+          {
+            "menuName": "Nasi Ayam Geprek Mozza",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/37fd4c4c-94ff-4489-8057-a4ca339a4424_Go-Biz_20220316_064751.jpeg?auto=format",
+            "menuPrice": 25.000
+          },
+          {
+            "menuName": "Rice Box Shinlin",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/febb61f4-f218-4e80-9725-7800138739f2_Go-Biz_20220316_065647.jpeg?auto=format",
+            "menuPrice": 18.500
+          },
+          {
+            "menuName": "Indomie Goreng Double Telur",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9fc82541-1b03-4133-91d3-96b7ec049438_Go-Biz_20220316_071111.jpeg?auto=format",
+            "menuPrice": 22.500
+          },
+          {
+            "menuName": "Rice Box Katsu",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/becb50c0-0058-42f4-a8ae-34bd94fbf06d_Go-Biz_20220316_071645.jpeg?auto=format",
+            "menuPrice": 22.500
+          }
+      ],
+      "about": "Nara is a cozy eatery serving delicious dishes.",
+      "restaurant_type": "Cuisine",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Tomoro Coffee",
+      "menus": [
+        {
+          "menuName": "Tomoro Oat Latte",
+          "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2a9919d0-6c12-4a46-bc52-858f866dd399_e3c1fb5d-2413-48fe-8839-725ff1f69d8e.jpeg?auto=format",
+          "menuPrice": 22.000
+        },
+        {
+          "menuName": "Manuka Oat Latte",
+          "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5fbb7abc-ba86-48ad-8e09-8742883d674c_1be513c5-0477-4c7d-9430-6f3d59fc452d.jpeg?auto=format",
+          "menuPrice": 28.000
+        },
+        {
+            "menuName": "Hojicha Oat Latte",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/36afacca-6a58-4805-8ebe-3a48b8caa3ab_4fd2a99c-fc2c-4214-9cc0-48fbcfcd7fab.jpeg?auto=format",
+            "menuPrice": 22.000
+          },
+          {
+            "menuName": "Choco Oat Latte",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d56e537e-36c7-475b-b09a-5e8bd5ecfe6f_6b72c421-6ae6-46ef-94b3-6a52019fc644.jpeg?auto=format",
+            "menuPrice": 28.000
+          },
+          {
+            "menuName": "Matcha Frappe",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3794ae45-f35c-432c-99ab-0decbb5359c8_be7b46b9-e0a0-48af-bac4-abdd23e71e77.jpeg?auto=format",
+            "menuPrice": 22.000
+          },
+          {
+            "menuName": "Chocolate Frappe",
+            "menuImage": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ff33fd15-f203-4809-9826-7674a0ec1c75_f52e0421-0270-4035-8d0b-eaa2f17ad33b.jpeg?auto=format",
+            "menuPrice": 25.000
+          }
+      ],
+      "about": "Tomoro Coffee offers a variety of coffee.",
+      "restaurant_type": "Coffee",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Delicious Bites",
+      "menus": [
+        {
+          "menuName": "Chicken Parmesan",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 12.99
+        },
+        {
+          "menuName": "Penne Alla Vodka",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 10.99
+        },
+        {
+          "menuName": "Margherita Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 15.99
+        }
+      ],
+      "about": "Delicious Bites is a cozy Italian restaurant that offers a wide variety of classic Italian dishes.",
+      "restaurant_type": "Italian",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Tasty Burgers",
+      "menus": [
+        {
+          "menuName": "Classic Cheeseburger",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 8.99
+        },
+        {
+          "menuName": "Bacon BBQ Burger",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 10.99
+        },
+        {
+          "menuName": "Mushroom Swiss Burger",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 9.99
+        }
+      ],
+      "about": "Tasty Burgers is a popular burger joint known for its mouthwatering burgers and fresh ingredients.",
+      "restaurant_type": "Burger",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Sushi Delight",
+      "menus": [
+        {
+          "menuName": "California Roll",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 9.99
+        },
+        {
+          "menuName": "Spicy Tuna Roll",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 11.99
+        },
+        {
+          "menuName": "Salmon Nigiri",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 8.99
+        }
+      ],
+      "about": "Sushi Delight offers a wide selection of fresh and delicious sushi rolls made with the finest ingredients.",
+      "restaurant_type": "Japanese",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Cozy Cafe",
+      "menus": [
+        {
+          "menuName": "Cappuccino",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 3.99
+        },
+        {
+          "menuName": "Avocado Toast",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 7.99
+        },
+        {
+          "menuName": "Blueberry Pancakes",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 9.99
+        }
+      ],
+      "about": "Cozy Cafe is a charming cafe where you can enjoy a wide range of coffee, breakfast, and brunch options.",
+      "restaurant_type": "Cafe",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Taste of India",
+      "menus": [
+        {
+          "menuName": "Butter Chicken",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 11.99
+        },
+        {
+          "menuName": "Vegetable Biryani",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 10.99
+        },
+        {
+          "menuName": "Garlic Naan",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 4.99
+        }
+      ],
+      "about": "Taste of India brings the authentic flavors of Indian cuisine to your table with its diverse menu of curries, biryanis, and more.",
+      "restaurant_type": "Indian",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Mouthwatering BBQ",
+      "menus": [
+        {
+          "menuName": "Smoked Ribs",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 15.99
+        },
+        {
+          "menuName": "Pulled Pork Sandwich",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 12.99
+        },
+        {
+          "menuName": "Grilled Chicken",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 10.99
+        }
+      ],
+      "about": "Mouthwatering BBQ is a BBQ joint that offers tender and flavorful smoked meats cooked to perfection.",
+      "restaurant_type": "Barbecue",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Fresh Salads",
+      "menus": [
+        {
+          "menuName": "Caesar Salad",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 8.99
+        },
+        {
+          "menuName": "Greek Salad",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 9.99
+        },
+        {
+          "menuName": "Caprese Salad",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 7.99
+        }
+      ],
+      "about": "Fresh Salads offers a variety of healthy and delicious salads made with fresh, locally sourced ingredients.",
+      "restaurant_type": "Salad",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Pizza Paradise",
+      "menus": [
+        {
+          "menuName": "Margherita Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 12.99
+        },
+        {
+          "menuName": "Pepperoni Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 11.99
+        },
+        {
+          "menuName": "BBQ Chicken Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 13.99
+        }
+      ],
+      "about": "Pizza Paradise serves a wide selection of mouthwatering pizzas with a variety of delicious toppings.",
+      "restaurant_type": "Pizza",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Flavorful Noodles",
+      "menus": [
+        {
+          "menuName": "Beef Ramen",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 9.99
+        },
+        {
+          "menuName": "Chicken Pad Thai",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 8.99
+        },
+        {
+          "menuName": "Vegetable Chow Mein",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": 7.99
+        }
+      ],
+      "about": "Flavorful Noodles offers a wide range of delicious noodle dishes from various Asian cuisines.",
+      "restaurant_type": "Asian",
+      "location": "Binus University Alam Sutera"
+    },
+    {
+      "restaurantName": "Warung Makan Sederhana",
+      "menus": [
+        {
+          "menuName": "Nasi Goreng",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "25.00"
+        },
+        {
+          "menuName": "Ayam Bakar",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "30.00"
+        }
+      ],
+      "about": "Warung Makan Sederhana offers a variety of Indonesian dishes at affordable prices.",
+      "restaurant_type": "Indonesian",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Sushi House",
+      "menus": [
+        {
+          "menuName": "California Roll",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "50.00"
+        },
+        {
+          "menuName": "Salmon Sashimi",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "70.00"
+        }
+      ],
+      "about": "Sushi House serves fresh and delicious sushi rolls and Japanese cuisine.",
+      "restaurant_type": "Japanese",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Pizza Hut",
+      "menus": [
+        {
+          "menuName": "Pepperoni Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "80.00"
+        },
+        {
+          "menuName": "Margherita Pizza",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "75.00"
+        }
+      ],
+      "about": "Pizza Hut offers a variety of delicious pizzas and sides.",
+      "restaurant_type": "Pizza",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Burger King",
+      "menus": [
+        {
+          "menuName": "Whopper",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "65.00"
+        },
+        {
+          "menuName": "Cheeseburger",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "40.00"
+        }
+      ],
+      "about": "Burger King serves flame-grilled burgers and tasty sides.",
+      "restaurant_type": "Burger",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Taco Bell",
+      "menus": [
+        {
+          "menuName": "Crunchy Taco",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "35.00"
+        },
+        {
+          "menuName": "Quesadilla",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "50.00"
+        }
+      ],
+      "about": "Taco Bell offers Mexican-inspired fast food and flavorful snacks.",
+      "restaurant_type": "Mexican",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Pasta House",
+      "menus": [
+        {
+          "menuName": "Spaghetti Bolognese",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "60.00"
+        },
+        {
+          "menuName": "Carbonara",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "70.00"
+        }
+      ],
+      "about": "Pasta House serves a variety of pasta dishes with rich and flavorful sauces.",
+      "restaurant_type": "Italian",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Momo House",
+      "menus": [
+        {
+          "menuName": "Chicken Momos",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "40.00"
+        },
+        {
+          "menuName": "Vegetable Momos",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "35.00"
+        }
+      ],
+      "about": "Momo House offers delicious and authentic Nepalese momos.",
+      "restaurant_type": "Nepalese",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Steak House",
+      "menus": [
+        {
+          "menuName": "Ribeye Steak",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "120.00"
+        },
+        {
+          "menuName": "Filet Mignon",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "150.00"
+        }
+      ],
+      "about": "Steak House serves premium quality steaks cooked to perfection.",
+      "restaurant_type": "Steakhouse",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Vegetarian Delight",
+      "menus": [
+        {
+          "menuName": "Tofu Stir-Fry",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "45.00"
+        },
+        {
+          "menuName": "Vegetable Curry",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "55.00"
+        }
+      ],
+      "about": "Vegetarian Delight offers a variety of delicious vegetarian dishes.",
+      "restaurant_type": "Vegetarian",
+      "location": "Binus University Anggrek"
+    },
+    {
+      "restaurantName": "Café Bistro",
+      "menus": [
+        {
+          "menuName": "Chicken Caesar Salad",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "65.00"
+        },
+        {
+          "menuName": "Mushroom Risotto",
+          "menuImage": "dummy_image.jpg",
+          "menuPrice": "70.00"
+        }
+      ],
+      "about": "Café Bistro offers a cozy ambiance and a variety of café-style dishes.",
+      "restaurant_type": "Café",
+      "location": "Binus University Anggrek"
+    },
+      {
+        "restaurantName": "Warung Makan Bu Joko",
+        "menus": [
+          {
+            "menuName": "Nasi Ayam",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          },
+          {
+            "menuName": "Gado-gado",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          }
+        ],
+        "about": "Warung Makan Bu Joko menawarkan berbagai hidangan Indonesia dengan harga terjangkau.",
+        "restaurant_type": "Indonesia",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Rumah Makan Sederhana",
+        "menus": [
+          {
+            "menuName": "Ikan Bakar",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "35.00"
+          },
+          {
+            "menuName": "Pepes Tahu",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          }
+        ],
+        "about": "Rumah Makan Sederhana menyajikan hidangan Indonesia dengan cita rasa autentik.",
+        "restaurant_type": "Indonesia",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Rumah Makan Padang",
+        "menus": [
+          {
+            "menuName": "Nasi Padang",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          },
+          {
+            "menuName": "Rendang",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "40.00"
+          }
+        ],
+        "about": "Rumah Makan Padang menyajikan hidangan khas Padang dengan berbagai pilihan lauk.",
+        "restaurant_type": "Padang",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Warung Soto Bang Jali",
+        "menus": [
+          {
+            "menuName": "Soto Ayam",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          },
+          {
+            "menuName": "Soto Betawi",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          }
+        ],
+        "about": "Warung Soto Bang Jali terkenal dengan soto ayam dan soto betawinya yang lezat.",
+        "restaurant_type": "Soto",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Kedai Bakso Pak Slamet",
+        "menus": [
+          {
+            "menuName": "Bakso Solo",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          },
+          {
+            "menuName": "Bakso Malang",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          }
+        ],
+        "about": "Kedai Bakso Pak Slamet menyajikan bakso dengan kuah yang lezat dan daging yang kenyal.",
+        "restaurant_type": "Bakso",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Warung Sate Pak Gembul",
+        "menus": [
+          {
+            "menuName": "Sate Ayam",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "15.00"
+          },
+          {
+            "menuName": "Sate Kambing",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          }
+        ],
+        "about": "Warung Sate Pak Gembul menyajikan sate dengan cita rasa khas dan bumbu yang lezat.",
+        "restaurant_type": "Sate",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Warung Makan Bu Euis",
+        "menus": [
+          {
+            "menuName": "Nasi Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          },
+          {
+            "menuName": "Mie Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          }
+        ],
+        "about": "Warung Makan Bu Euis menyediakan hidangan nasi goreng dan mie goreng dengan variasi rasa yang menggugah selera.",
+        "restaurant_type": "Makanan Indonesia",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Rumah Makan Sunda",
+        "menus": [
+          {
+            "menuName": "Ayam Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "35.00"
+          },
+          {
+            "menuName": "Pepes Ikan",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          }
+        ],
+        "about": "Rumah Makan Sunda menyajikan hidangan khas Sunda dengan cita rasa autentik.",
+        "restaurant_type": "Sunda",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Kedai Mie Ayam Pak Slamet",
+        "menus": [
+          {
+            "menuName": "Mie Ayam Bakso",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          },
+          {
+            "menuName": "Mie Ayam Jamur",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          }
+        ],
+        "about": "Kedai Mie Ayam Pak Slamet menyajikan mie ayam dengan bumbu yang khas dan kuah yang lezat.",
+        "restaurant_type": "Mie Ayam",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Warung Nasi Kuning Bu Endah",
+        "menus": [
+          {
+            "menuName": "Nasi Kuning Komplit",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          },
+          {
+            "menuName": "Ayam Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          }
+        ],
+        "about": "Warung Nasi Kuning Bu Endah menyediakan hidangan nasi kuning dengan lauk yang lezat dan variasi komplit.",
+        "restaurant_type": "Nasi Kuning",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Bakso Ibu Kartika",
+        "menus": [
+          {
+            "menuName": "Bakso Solo",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "15.00"
+          },
+          {
+            "menuName": "Bakso Urat",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          }
+        ],
+        "about": "Bakso Ibu Kartika menyajikan bakso dengan kuah yang gurih dan daging yang lembut.",
+        "restaurant_type": "Bakso",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Gado-Gado Bu Tini",
+        "menus": [
+          {
+            "menuName": "Gado-Gado",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          },
+          {
+            "menuName": "Ketoprak",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          }
+        ],
+        "about": "Gado-Gado Bu Tini menyajikan hidangan gado-gado dan ketoprak dengan bumbu kacang yang lezat.",
+        "restaurant_type": "Gado-Gado",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Pecel Lele Mbak Ida",
+        "menus": [
+          {
+            "menuName": "Pecel Lele",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "20.00"
+          },
+          {
+            "menuName": "Nasi Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "25.00"
+          }
+        ],
+        "about": "Pecel Lele Mbak Ida menyajikan pecel lele dengan cita rasa yang unik dan nasi goreng yang lezat.",
+        "restaurant_type": "Pecel Lele",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Warung Steak Pak Boss",
+        "menus": [
+          {
+            "menuName": "Steak Sapi",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "45.00"
+          },
+          {
+            "menuName": "Steak Ayam",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "40.00"
+          }
+        ],
+        "about": "Warung Steak Pak Boss menyediakan hidangan steak dengan daging yang lezat dan bumbu yang khas.",
+        "restaurant_type": "Steak",
+        "location": "Binus University Bandung"
+      },
+      {
+        "restaurantName": "Pondok Ikan Bakar",
+        "menus": [
+          {
+            "menuName": "Ikan Bakar",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "35.00"
+          },
+          {
+            "menuName": "Ikan Goreng",
+            "menuImage": "dummy_image.jpg",
+            "menuPrice": "30.00"
+          }
+        ],
+        "about": "Pondok Ikan Bakar menyajikan hidangan ikan bakar dan ikan goreng dengan bumbu yang khas.",
+        "restaurant_type": "Ikan Bakar",
+        "location": "Binus University Bandung"
+      }
+  ]
+}
